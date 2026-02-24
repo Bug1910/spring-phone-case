@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Bug1910.github.io/spring-phone-case/sitemap.xml
